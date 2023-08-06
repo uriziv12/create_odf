@@ -20,4 +20,4 @@ pdf.cell(200, 10, txt="A Computer Science portal for geeks.",
          ln=2, align='C')
 
 # save the pdf with name .pdf
-pdf.output("GFG.pdf")
+pdf.output("../GFG.pdf")
